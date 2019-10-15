@@ -1,0 +1,25 @@
+body.default 
+{
+	background-image: url("gesonel.jpg");
+    background-size: auto;
+} 
+
+body.irmaodojorel 
+{
+	background-image: url("images.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+p.border 
+{
+	background-color: white;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: gray;
+}
+
+span.BOLD
+{
+	font-weight: bold;
+	font-size: 15px;
+}
